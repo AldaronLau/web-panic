@@ -5,7 +5,7 @@
 [![Crates.io](https://img.shields.io/crates/v/web_panic_hook)](https://crates.io/crates/web_panic_hook)
 [![Crates.io](https://img.shields.io/crates/d/web_panic_hook)](https://crates.io/crates/web_panic_hook)
 [![Crates.io (recent)](https://img.shields.io/crates/dr/web_panic_hook)](https://crates.io/crates/web_panic_hook)  
-[![Crates.io](https://img.shields.io/crates/l/web_panic_hook)](https://github.com/ardaku/web_panic_hook/search?l=Text&q=license)
+[![Crates.io](https://img.shields.io/crates/l/web_panic_hook)](https://github.com/AldaronLau/web_panic_hook/search?l=Text&q=license)
 [![Docs.rs](https://docs.rs/web_panic_hook/badge.svg)](https://docs.rs/web_panic_hook/)
 
 ![Screenshot](screenshot.png)
