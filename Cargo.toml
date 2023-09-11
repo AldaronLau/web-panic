@@ -1,6 +1,15 @@
 [package]
 name = "web_panic_hook"
 version = "0.1.0"
+license = "Apache-2.0 OR BSL-1.0 OR MIT"
+description = "Panic handling in the browser (wasm)"
+repository = "https://github.com/AldaronLau/web_panic_hook"
+documentation = "https://docs.rs/web_panic_hook"
+homepage = "https://github.com/AldaronLau/web_panic_hook/blob/stable/CHANGELOG.md"
+include = ["/examples/", "/README.md", "/src/"]
+keywords = ["panic", "hook", "panic-hook"]
+categories = ["wasm", "web-programming"]
+readme = "README.md"
 edition = "2021"
 
 [dependencies.html]

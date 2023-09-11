@@ -1,4 +1,4 @@
-# web-panic
+# Web Panic Hook
 Panic handling in the browser (wasm)
 
 ```bash
