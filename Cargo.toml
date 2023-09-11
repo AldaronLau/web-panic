@@ -1,11 +1,11 @@
 [package]
-name = "web-panic"
+name = "web_panic_hook"
 version = "0.1.0"
 edition = "2021"
 
+[dependencies.html]
+version = "0.6"
+
 [dependencies.web-sys]
 version = "0.3"
-features = ["Element"]
-
-[dev-dependencies.html]
-version = "0.6"
+features = ["Document", "DomException", "Element", "HtmlElement", "Window"]
