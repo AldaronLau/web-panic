@@ -13,5 +13,6 @@ fn main() {
         .body(|b| b)
         .build();
 
+    fs::create_dir("./html").unwrap();
     fs::write("./html/index.html", html.to_string()).unwrap();
 }
